@@ -50,11 +50,11 @@ body {
 }
 
 .topo .ask:hover .tooltipAsk {
-    opacity: 1;
+    display: inline;
 }
 
 .tooltipAsk {
-    opacity: 0;
+    display: none;
     width: 320px;
     color: black;
     font-size: 13px;
